@@ -1,0 +1,7 @@
+OrderID,Product,Category,sales,Profit,Region,Month
+101,Mobile,Electronics,15000,3000,North,jan 
+102,Laptop,Electronics,55000,7000,South,feb
+103,Shirt,Clothings,1200,300,East,jan
+104,Shoes,Footwear,3000,500,West,mar
+105,TV,Electronics,45000,6000,North,feb
+106,Jeans,Clothing,2500,400,south,may
