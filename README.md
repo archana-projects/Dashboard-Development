@@ -1,13 +1,10 @@
 # Dashboard-Development
-
-
-
-
-
-
-
-
-
+**COMPANY**:CODTECH IT SOLUTIONS
+**NAME**:ARCHANA KUMARI
+**INTERN ID**: CT12DR864
+**DOMAIN**:DATA ANALYTICS
+**DURATION**:12 WEEKS
+**MENTOR**:NEELA SANTOSH
 
 Dashboard Development involves designing and building interactive visual interfaces that present key metrics, trends, and insights in a clear and actionable manner. Dashboards help transform raw data into meaningful visual representations, enabling users to monitor performance, identify patterns, and make informed decisions efficiently. This project demonstrates the end-to-end process of developing a data-driven dashboard using best practices in data visualization and analytics.
 
